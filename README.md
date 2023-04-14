@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Serafin-dev
-- 👀 I’m interested in learning new skills.
-- 🌱 I’m currently learning Python, Django, Flask and Blockchain integration.
-- 💞️ I’m looking to collaborate on innovative Game and web projects.
-- 📫 d.nicolasmateoli@gmail.com
+- 👀 I’m interested in learning new skills about Blockchain and Artificial Inteligence development.
+- 🌱 I’m currently workint as a Python-Django fullstack web developer. 
+- 📫 dnm_dev@protonmail.com
 
